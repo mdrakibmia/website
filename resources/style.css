@@ -204,6 +204,11 @@ h1{
      background:#eb7d4b;
      border-color: #c86a40;
  }
+ .btn-hero:hover{
+    background: rgb(135, 80, 156, .0);
+    border-radius: .3rem;
+    border: .3rem solid #000;
+}
 
  /* mobile-menu */
 
@@ -577,4 +582,17 @@ svg.ui-ux circle{
 }
 .footer-section li:hover a{
     color: #30bae7;
+}
+
+/* copyright section */
+
+.copyright{
+    color: #30bae7;
+    font-size: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+.icon1{
+    height: 2.5rem;
+    padding-top: 1rem;
 }
