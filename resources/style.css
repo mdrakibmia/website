@@ -592,7 +592,6 @@ svg.ui-ux circle{
     margin-top: 3rem;
     margin-bottom: 2rem;
 }
-.icon1{
-    height: 2.5rem;
-    padding-top: 1rem;
+.copy{
+    color: #F2AC32;
 }
